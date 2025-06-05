@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Express JS**
 
-- 📫 How to reach me **jmirafuentes47@gmail.com**
+- 📫 How to reach me **jmirafuentes48@gmail.com**
 
 - ⚡ Fun fact **I love dancing.**
 
